@@ -86,7 +86,6 @@ class DOMNodeCollection {
     el.remove();
     });
   }
-
 }
 
 module.exports = DOMNodeCollection;
